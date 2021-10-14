@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @James1996GitHub
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Computer Vision
+- 📫 How to reach me Jamessmithcareers@Gmail.com
